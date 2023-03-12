@@ -1,0 +1,23 @@
+_repo: Uncle-Jo-s-Old-Coat_70249
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Stooke, Eleanora H.
+    gutenberg_agent_id: '55669'
+    url: http://www.gutenberg.org/2009/agents/55669
+description: ''
+gutenberg_issued: '2023-03-09'
+identifiers:
+  gutenberg: '70249'
+language: en
+pgterms:marc905: 20230307135725stooke
+pgterms:marc906: '1905'
+pgterms:marc907: GB
+publication_note: '  $aUnited Kingdom :$bS.W. Partridge & Co., $c1905.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Uncle Jo's Old Coat
+url: http://www.gutenberg.org/ebooks/70249
