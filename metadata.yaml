@@ -1,11 +1,16 @@
 _repo: Uncle-Jo-s-Old-Coat_70249
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Stooke, Eleanora H.
     gutenberg_agent_id: '55669'
     url: http://www.gutenberg.org/2009/agents/55669
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70249#Uncle-Jo-s-Old-Coat
 gutenberg_issued: '2023-03-09'
 identifiers:
   gutenberg: '70249'
